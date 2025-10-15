@@ -14,6 +14,6 @@ public class Arithmetic<T extends Number> {
         this.secondNumber = secondNumber;
     }
 
-    /*To be continued*/
+    /*Today was mostly lecture - code to be continued Friday*/
 
 }
